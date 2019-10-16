@@ -15,6 +15,7 @@ main = Blueprint('main', __name__)
 
 @main.route('/')
 def index():
+    print("index main")
     categories = mongo.db.categories.find({})
     bigTrends = list(mongo.db.recipes.find({}))
     for recipe in bigTrends:
