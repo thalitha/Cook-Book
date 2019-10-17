@@ -1,4 +1,4 @@
-# Holiday Planning
+# Cook Book
  
 It is an online cook book web page which allows the users to search for recipes. There are also options to upload, edit and delete the recipes .
 Cooking is an amazing experience, at least for some people, and everyone likes to enjoy a good food, so surely it is an interesting website.
