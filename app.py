@@ -6,7 +6,9 @@ app.debug = True
 
 @app.route('/')
 def index():
-     return "hello MEMpy"
+    return 'Hello MEMpy'
 
 if __name__ == '__main__':
-    app.run(host=os.getenv('IP'), port=int(os.getenv('PORT')), debug=True) 
+    port = int(os.getenv('PORT', 8080))
+    host = os.getenv('IP', '0.0.0.0')
+    app.run(port=port, host=host)
