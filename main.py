@@ -30,7 +30,7 @@ def search():
     search = request.args.get('search')
     recipes = mongo.db.recipes.find({'name': {'$regex': ".*"+search+".*"}})
 
-    return render_template('search.result.html', recipes=recipes)
+    return render_template('search-result.html', recipes=recipes)
 
 @main.route('/searchCategories/<categories>')
 def searchCategories(categories):
