@@ -1,4 +1,4 @@
-# Cook Book
+# Holiday Planning
  
 It is an online cook book web page which allows the users to search for recipes. There are also options to upload, edit and delete the recipes .
 Cooking is an amazing experience, at least for some people, and everyone likes to enjoy a good food, so surely it is an interesting website.
@@ -28,20 +28,18 @@ On this page is displayed all recipes who meets the criteria determined on the s
 On Big Trends page it is showed the pictures of 3 recipes (in a carrocel format)
 ####About Us
 On Big Trends page the user can read about the who is running the website and what is the purpose. That’s a fictive history about one Irish manufacture company who runs the website to promote your brands among the users. 
-####Contact Us
+Contact Us
 On Contact Us page the user can read about who is running the website and what is the purpose. That’s a fictive history about one irish manufacture company who runs the website to promote your brands among the users. 
-####Recipe Management
+Recipe Management
 By clicking on Recipe Management, it will open a dropdown list with the option to go to the pages: “Upload your Recipe” and “Edit & Delete a Recipe”.
-####Upload Your Recipe page
+Upload Your Recipe page
 It is displayed a form which the user should fill out the follow fields: Name of the Recipe, Time, Ingredients, Preparation, Categories, Upload a Picture and at the end click on “Send” button. Then, it will display the follow green text “Save”
-####“Edit & Delete a Recipe” page 
+“Edit & Delete a Recipe” page 
 Will display all recipes available on the website, by name and with a picture and will have the options to “Edit” and “Delete” for each.
  
 ### Future plans include:
-An option to log in, register and log out. 
-An session which shows for the user logged a profile information with graphics about how many recipes: he/she has uploaded (and also breakdown them per category), how many were deleted. How the recipes that he/she uploaded has performed (how many likes has received).
-An option for who sign up and upload a recipe receive 10% off in a purchase of the one of Lorenzo’s Knifes.
-
+Display the average costs per city per day.
+Diplay more options in Touristic Atrractions.
  
 ### Testing
 All features of the website has been tested and seems to be working well.

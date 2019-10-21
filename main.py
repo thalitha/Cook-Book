@@ -14,6 +14,7 @@ main = Blueprint('main', __name__)
 
 
 @main.route('/')
+@main.route('/index')
 def index():
     print("index main")
     categories = mongo.db.categories.find({})
