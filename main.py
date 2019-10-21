@@ -35,7 +35,7 @@ def search():
 @main.route('/searchCategories/<categories>')
 def searchCategories(categories):
     recipes = mongo.db.recipes.find({'categories': { '$in': categories.split(',')}})
-
+    
     return render_template('search-result.html', recipes=recipes)
     
 
