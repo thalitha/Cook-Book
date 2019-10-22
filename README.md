@@ -17,7 +17,7 @@ The next Top Nav Bar options are “Big Trends”, “About Us”, “Connect wi
 
 -First Page  
 On the first page, in the middle of the screen there is the general search field where the user should type the keyword of the recipe desired and click on the button “Search”
-##Search by Category page
+###Search by Category page
 On the Search by Category page the user should flag/select as many categories he/she wants and click on the button “Search” at the bottom. Above the Search button there is a display for the total amount of recipes available which will appear in the next page based on the current fields that are flagged.
 Listed below are the options under each category:
 “Dish”: Chicken, Fish, Pasta, Meet and Dessert
@@ -25,17 +25,17 @@ Listed below are the options under each category:
 “Type of Diet”: Vegan, Vegetarian, Light and Gluten-Free
 -Recipes Resulted from the Search page
 This page displays the recipes which meets the criteria flagged on the search (whether they were from the General Search or Search by Category). In this page each recipe will be named and will provide a picture. Each recipe clearly has a “See More” option highlighted in blue allowing the user to go in and view, when the user clicks on this they will get all the information required in order to prepare the dish, including time needed, ingredients required, detailed preparation instructions and also a picture of the dish. 
--Big Trends
+###Big Trends
 On the Big Trends page it shows pictures of 3 deluxe dishes (in a carrocel format)
--About Us
+###About Us
 On this page the user can find out a little about the company that created the page and it’s purpose. It is on this page that the cooking knives are mentioned and promoted.
--Connect with Us
+###Connect with Us
 This simply shows that we are on the three major social media channels, Instagram, Facebook, and Twitter. 
--Recipe Management
+###Recipe Management
 By clicking on Recipe Management, it will open a dropdown box with the option to go to the pages: “Upload your Recipe” and “Edit & Delete a Recipe”.
--Upload Your Recipe page
+###Upload Your Recipe page
 Allows the user to upload his/her own recipe. The titles and format is the same as when he/she views any other recipe on the site. They enter the Name of the Recipe, Time required, Ingredients required, Preparation details, and category details.  Upload a Picture and at the end click on the “Send” button. Then the “           Save” button will appear in green.
--“Edit & Delete a Recipe” page 
+###“Edit & Delete a Recipe” page 
 Will display all recipes available on the website, by name and with a picture and will have the options to “Edit” and “Delete” for each. The “Edit” page is essentially the same as the “Upload page” but obviously the text is already populated. 
  
 ### Future plans include:
