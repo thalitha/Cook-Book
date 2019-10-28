@@ -46,13 +46,13 @@ Will display all recipes available on the website, by name and with a picture an
 
 ### Technologies used
 This website is a Flask Website that uses a Mongo backend.
-* ***HTML5***
-* ***CSS***
-* ***Bootstrap***
-* ***Python***
-* ***Mongo***
-* ***Flask***
-* ***JS***
+* **HTML5**
+* **CSS**
+* **Bootstrap**
+* **Python**
+* **Mongo**
+* **Flask**
+* **JS**
 
 ### Testing
 All features of the website has been tested and seems to be working well.
