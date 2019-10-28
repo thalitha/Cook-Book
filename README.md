@@ -35,7 +35,7 @@ This simply shows that we are on the three major social media channels, Instagra
 By clicking on Recipe Management, it will open a dropdown box with the option to go to the pages: “Upload your Recipe” and “Edit & Delete a Recipe”.
 * ***Upload Your Recipe page***  
 Allows the user to upload his/her own recipe. The titles and format is the same as when he/she views any other recipe on the site. They enter the Name of the Recipe, Time required, Ingredients required, Preparation details, and category details.  Upload a Picture and at the end click on the “Send” button. Then the “           Save” button will appear in green.
-* ***“Edit & Delete a Recipe” page***   
+* ***Edit & Delete a Recipe page***   
 Will display all recipes available on the website, by name and with a picture and will have the options to “Edit” and “Delete” for each. The “Edit” page is essentially the same as the “Upload page” but obviously the text is already populated. 
  
 ### Future plans include:
@@ -46,13 +46,14 @@ Will display all recipes available on the website, by name and with a picture an
 
 ### Technologies used
 This website is a Flask Website that uses a Mongo backend.
-* **HTML5**
-* **CSS**
+
 * **Bootstrap**
-* **Python**
-* **Mongo**
+* **CSS**
 * **Flask**
+* **HTML5**
 * **JS**
+* **Mongo**
+* **Python**
 
 ### Testing
 All features of the website has been tested and seems to be working well.
