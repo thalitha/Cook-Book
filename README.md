@@ -20,9 +20,9 @@ On the first page, in the middle of the screen there is the general search field
 * ***Search by Category page***  
 On the Search by Category page the user should flag/select as many categories he/she wants and click on the button “Search” at the bottom. Above the Search button there is a display for the total amount of recipes available which will appear in the next page based on the current fields that are flagged.
 Listed below are the options under each category:
- * “Dish”: Chicken, Fish, Pasta, Meet and Dessert
- * “Type of Cuisine”: Italian, French, Thai and Greek
- * “Type of Diet”: Vegan, Vegetarian, Light and Gluten-Free
+ - - “Dish”: Chicken, Fish, Pasta, Meet and Dessert
+ - - “Type of Cuisine”: Italian, French, Thai and Greek
+ - - “Type of Diet”: Vegan, Vegetarian, Light and Gluten-Free
 * ***Recipes Resulted from the Search page***
 This page displays the recipes which meets the criteria flagged on the search (whether they were from the General Search or Search by Category). In this page each recipe will be named and will provide a picture. Each recipe clearly has a “See More” option highlighted in blue allowing the user to go in and view, when the user clicks on this they will get all the information required in order to prepare the dish, including time needed, ingredients required, detailed preparation instructions and also a picture of the dish. 
 * ***Big Trends***  
