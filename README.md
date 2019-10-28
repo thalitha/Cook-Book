@@ -40,36 +40,41 @@ Will display all recipes available on the website, by name and with a picture an
  
 ### Future plans include:
 * An option to register, login and log out. 
-* Provide profile information for logged in members with graphics about how many recipes he/she has uploaded (and also a breakdown of them by category), and how many were deleted. How the recipes that he/she uploaded have performed (how many likes has received).
+* Provide profile information for logged in members with graphics about how many recipes he/she has uploaded (and also a breakdown of them by category), and how the recipes that he/she uploaded have performed (how many likes has received).
 * Provide detailed pages about knives and accessories for sale and provide purchase options.
 * An option for members who upload numerous recipes receive 10% discounts of the knives.
 
+### Technologies used
+This website is a Flask Website that uses a Mongo backend.
+* ***HTML5***
+* ***CSS***
+* ***Bootstrap***
+* ***Python***
+* ***Mongo***
+* ***Flask***
+* ***JS***
+
 ### Testing
 All features of the website has been tested and seems to be working well.
-When the users start to write the name of the city the autocomplete functionality give options to select the city. 
-By clicking in each of them the user will be able to see a list of options of each, and the respective spots (location tags) on the map, and
-from the result list the user is able to click on the place indicated and it will show the name, address and website.
+Each functionality has been tested and are described on the Validation document.
 The webpage is responsive adapting to different sizes of the devices.
-The xxx validator coding was used.
+The www.jshint.com validator coding was used.
  
 ### Deployment
-the webpage was deployed using Github and the link to the website is: xxxx 
-?????
- 
+the webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
+
 ### Credits
-Contents:
-I accessed: https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch
+I have seen the website developed by: xxx , yy
+Contents from Recipes from BBC website: https://www.bbc.co.uk/food/recipes
+For text correction: https://www.grammarly.com/grammar-check
+For pictures: https://www.istockphoto.com/ie and https://www.bbc.co.uk/food/recipes
+http://www.dropzonejs.com (Matias Meno)
  
 ### Acknowledgements:
-I would like to thank you my mentorn very capable  who even spent extra hours to help t0 direct me.
-
-
+I would like to thank you my mentorn very capable who to direct me and the tutors from Code Institute.
 
 -----
 UX
-
-
-
 
 Testing
 All features of the website have been vigorously tested and everything is in order.
