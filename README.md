@@ -36,7 +36,7 @@ By clicking on Recipe Management, it will open a dropdown box with the option to
 * ***Upload Your Recipe page***  
 Allows the user to upload his/her own recipe. The titles and format is the same as when he/she views any other recipe on the site. They enter the Name of the Recipe, Time required, Ingredients required, Preparation details, and category details.  Upload a Picture and at the end click on the “Send” button. Then the “           Save” button will appear in green.
 * ***Edit & Delete a Recipe page***   
-Will display all recipes available on the website, by name and with a picture and will have the options to “Edit” and “Delete” for each. The “Edit” page is essentially the same as the “Upload page” but obviously the text is already populated. 
+Will display all recipes available on the website by name and with a picture and will have the options to “Edit” and “Delete” for each. The “Edit” page is essentially the same as the “Upload page” but obviously the text is already populated. 
  
 ### Future plans include:
 * An option to register, login and log out. 
