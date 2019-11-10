@@ -65,9 +65,7 @@ The www.jshint.com validator coding was used.
 The webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
 
 ### Credits
-* I have seen the website and used some ideias from:
-* Spencer https://github.com/5pence/recipeGlut
-* MiroslavSvec https://github.com/Code-Institute-Submissions/project-5
+* I have seen the website and used some ideias from: Spencer https://github.com/5pence/recipeGlut and MiroslavSvec https://github.com/Code-Institute-Submissions/project-5
 * Content for Recipes from the BBC website: https://www.bbc.co.uk/food/recipes
 * For text correction: https://www.grammarly.com/grammar-check
 * For pictures: https://www.istockphoto.com/ie and https://www.bbc.co.uk/food/recipes
