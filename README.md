@@ -57,7 +57,7 @@ This website is a Flask Website that uses a Mongo backend.
 
 ### Testing
 All features of the website has been tested and seems to be working well.
-Each functionality has been tested and are described on the Validation documents (pages01-03).
+Each functionality has been tested and are described on the Validation documents (pages 01-03).
 The webpage is responsive adapting to different sizes of the devices.
 The www.jshint.com validator coding was used.
  
@@ -65,7 +65,7 @@ The www.jshint.com validator coding was used.
 The webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
 
 ### Credits
-* I have seen the website developed by: xxx , yy
+* I have seen the website and used some ideias from:
 * Spencer (https://github.com/5pence/recipeGlut)
 * MiroslavSvec (https://github.com/Code-Institute-Submissions/project-5)
 * Content for Recipes from the BBC website: https://www.bbc.co.uk/food/recipes
