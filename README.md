@@ -62,7 +62,7 @@ The webpage is responsive adapting to different sizes of the devices.
 The www.jshint.com validator coding was used.
  
 ### Deployment
-the webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
+The webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
 
 ### Credits
 * I have seen the website developed by: xxx , yy
