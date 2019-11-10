@@ -57,7 +57,7 @@ This website is a Flask Website that uses a Mongo backend.
 
 ### Testing
 All features of the website has been tested and seems to be working well.
-Each functionality has been tested and are described on the Validation document.
+Each functionality has been tested and are described on the Validation documents (pages01-03).
 The webpage is responsive adapting to different sizes of the devices.
 The www.jshint.com validator coding was used.
  
@@ -65,45 +65,13 @@ The www.jshint.com validator coding was used.
 the webpage was deployed using Github and Heroku. The link to the website is: https://cookbookie.herokuapp.com/.
 
 ### Credits
-*I have seen the website developed by: xxx , yy
-*Spencer (https://github.com/5pence/recipeGlut)
-*MiroslavSvec (https://github.com/Code-Institute-Submissions/project-5)
-*Content for Recipes from the BBC website: https://www.bbc.co.uk/food/recipes
-*For text correction: https://www.grammarly.com/grammar-check
-*For pictures: https://www.istockphoto.com/ie and https://www.bbc.co.uk/food/recipes
-*for dropzone http://www.dropzonejs.com (Matias Meno)
-*for validation: www.jshint.com
-
+* I have seen the website developed by: xxx , yy
+* Spencer (https://github.com/5pence/recipeGlut)
+* MiroslavSvec (https://github.com/Code-Institute-Submissions/project-5)
+* Content for Recipes from the BBC website: https://www.bbc.co.uk/food/recipes
+* For text correction: https://www.grammarly.com/grammar-check
+* For pictures: https://www.istockphoto.com/ie and https://www.bbc.co.uk/food/recipes
+* For dropzone http://www.dropzonejs.com (Matias Meno)
+* For validation: www.jshint.com
  
-
------
-UX
-
-Testing
-All features of the website have been vigorously tested and everything is in order.
-I run scrip tests for the functionalities. They are saved as:...”” 
-The web page is responsive and adapts to different devices and different sizes of the devices. The www.jshint.com validator coding was used.
-
-Deployment
-The web page was deployed using Github and the link to the website is: http://apiproject.s3-website-eu-west-1.amazonaws.com/.
-This website is a Flask Website that uses a Mongo backend.
-Technologies Used
-•	Python
-•	HTML5
-•	CSS / Bootstrap 4
-•	JS / JQuery
-•	Mongo
-•	Flask
-Future plans include:
-An option to log in, register and log out. 
-An session which shows for the user logged a profile information with graphics about how many recipes: he/she has uploaded (and also breakdown them per category), how many were deleted. How the recipes that he/she uploaded has performed (how many likes has received).
-An option for who sign up and upload a recipe receive 10% off in a purchase of the one of Lorenzo’s Knifes.
-
-Credits
-I have seen the website developed by: xxx , yy
-Recipes from BBC website
-Acknowledgements:
-I would like to thank my very capable and helpful mentor for all his effort in helping me with the site.
-Spencer (https://github.com/5pence/recipeGlut)
-MiroslavSvec (https://github.com/Code-Institute-Submissions/project-5)
 
